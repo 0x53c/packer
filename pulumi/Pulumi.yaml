@@ -1,7 +1,0 @@
-name: helios
-description: bootstrapper
-runtime: go
-config:
-  pulumi:tags:
-    value:
-      pulumi:template: go
